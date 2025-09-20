@@ -15,9 +15,8 @@ I specialize in **automation with PowerShell**, **Active Directory management**,
 - **[Active Directory Health Check](https://github.com/ChrisMunnPS)**  
   Automated `dcdiag`/`repadmin` checks with summary reporting to ensure 99.9% uptime.  
 
-- **[Backup Validation Tool](https://github.com/ChrisMunnPS)**  
-  Scripted validation of Veeam and Rapid Recovery jobs to meet RTO/RPO targets.  
-
+- **[Active Directory Security Dashboard](https://github.com/ChrisMunnPS/ActiveDirectory_Flag_Scanner/blob/main/README.md)**  
+  This PowerShell script provides automated security auditing for Microsoft Active Directory environments. It identifies potential security risks, generates professional reports with visual dashboards, and helps organizations maintain compliance with security best practices.
 ---
 
 ## 🛠️ Skills & Tools
