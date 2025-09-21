@@ -9,8 +9,8 @@ I specialize in **automation with PowerShell**, **Active Directory management**,
 
 ## 🚀 Featured Projects
 
-- **[User Onboarding & Offboarding Automation](https://github.com/ChrisMunnPS)**  
-  PowerShell scripts that cut 30–45 minutes from account provisioning and deprovisioning.  
+- **[Enhanced Internal DNS Health & Event Report](https://github.com/ChrisMunnPS/InternalDNSChecker/blob/main/README.md))**  
+  This tool automatically monitors and reports on the health of your organization's internal DNS infrastructure, which is critical for network connectivity and system operations.
 
 - **[Active Directory Health Check](https://github.com/ChrisMunnPS/DomainControllerHealthDashboard/blob/main/README.md)**  
   Automated `dcdiag`/`repadmin` checks with summary reporting to ensure 99.9% uptime.  
