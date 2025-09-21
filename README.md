@@ -12,7 +12,7 @@ I specialize in **automation with PowerShell**, **Active Directory management**,
 - **[User Onboarding & Offboarding Automation](https://github.com/ChrisMunnPS)**  
   PowerShell scripts that cut 30–45 minutes from account provisioning and deprovisioning.  
 
-- **[Active Directory Health Check](https://github.com/ChrisMunnPS)**  
+- **[Active Directory Health Check](https://github.com/ChrisMunnPS/DomainControllerHealthDashboard/blob/main/README.md)**  
   Automated `dcdiag`/`repadmin` checks with summary reporting to ensure 99.9% uptime.  
 
 - **[Active Directory Security Dashboard](https://github.com/ChrisMunnPS/ActiveDirectory_Flag_Scanner/blob/main/README.md)**  
