@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Christopher Munn
 
-I’m a **Systems Administrator** with 20+ years of experience keeping IT environments stable, secure, and efficient.  
+I’m a **Systems Administrator** with over 20 years of experience keeping IT environments stable, secure, and efficient.  
 I specialize in **automation with PowerShell**, **Active Directory management**, and **infrastructure modernization** (VMware, Exchange, Azure, JAMF Pro).  
 
 💡 I use this GitHub to share scripts and tools I’ve built to solve real sysadmin problems — from onboarding automation to backup monitoring.  
