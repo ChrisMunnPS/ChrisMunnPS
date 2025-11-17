@@ -29,9 +29,11 @@ I specialize in **automation with PowerShell**, **Active Directory management**,
 
 ## 📜 Certifications
 - Azure Administrator Associate (AZ-104)  
-- Microsoft Security, Compliance, Identity Fundamentals (SC-900)  
-- Microsoft 365 Fundamentals (MS-900)  
-- Azure Fundamentals (AZ-900)  
+- Microsoft Security, Compliance, Identity Fundamentals (SC-900)
+- Microsoft 365 Fundamentals (MS-900)
+- Azure Fundamentals (AZ-900)
+- Microsoft Certified Systems Engineer (MCSE)
+- Comptia:  A+, Network+, Security+
 - ADDS Applied Skills  
 
 ---
